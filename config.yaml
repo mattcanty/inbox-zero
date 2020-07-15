@@ -1,0 +1,5 @@
+hashicorpTerraformCloud:
+  token: stub
+  orgName: UnicornOrganisation
+  workspaces:
+    - platform
